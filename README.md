@@ -16,6 +16,8 @@ This project is in Portuguese because the training proposal was to style an exis
 - [x] Implement tests
 - [x] Use fireEvent element.
 - [x] Another way for the same test
+- [x] Create Transacao.test file
+- [x] Create Conta.test file
 
 
 
