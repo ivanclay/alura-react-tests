@@ -14,6 +14,7 @@ This project is in Portuguese because the training proposal was to style an exis
 - [x] We need run test (npm test)
 - [x] Create App.test.js file
 - [x] Implement tests
+- [x] Use fireEvent element.
 
 
 
